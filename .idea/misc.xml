@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Belajar React/E-Commerce-master/MyApplication/app/src/main/res/drawable/background_swipe.xml" value="0.1805" />
+        <entry key="..\:/Belajar React/E-Commerce-master/MyApplication/app/src/main/res/drawable/bg_card_kategori.xml" value="0.2035" />
+        <entry key="..\:/Belajar React/E-Commerce-master/MyApplication/app/src/main/res/drawable/bg_form_pencarian.xml" value="0.2035" />
+        <entry key="..\:/Belajar React/E-Commerce-master/MyApplication/app/src/main/res/drawable/card_button.xml" value="0.1845" />
+        <entry key="..\:/Belajar React/E-Commerce-master/MyApplication/app/src/main/res/drawable/card_produk.xml" value="0.1805" />
+        <entry key="..\:/Belajar React/E-Commerce-master/MyApplication/app/src/main/res/drawable/header.xml" value="0.1805" />
+        <entry key="..\:/Belajar React/E-Commerce-master/MyApplication/app/src/main/res/drawable/ic_cari.xml" value="0.3175" />
+        <entry key="..\:/Belajar React/E-Commerce-master/MyApplication/app/src/main/res/drawable/ic_favorit.xml" value="0.306" />
+        <entry key="..\:/Belajar React/E-Commerce-master/MyApplication/app/src/main/res/drawable/ic_wallet.xml" value="0.1825" />
+        <entry key="..\:/Belajar React/E-Commerce-master/MyApplication/app/src/main/res/drawable/splash.xml" value="0.2555" />
+        <entry key="..\:/Belajar React/E-Commerce-master/MyApplication/app/src/main/res/layout-w1240dp/activity_login.xml" value="0.33" />
+        <entry key="..\:/Belajar React/E-Commerce-master/MyApplication/app/src/main/res/layout-w936dp/activity_login.xml" value="0.33" />
+        <entry key="..\:/Belajar React/E-Commerce-master/MyApplication/app/src/main/res/layout/_ly_hotsale.xml" value="0.23803418803418802" />
+        <entry key="..\:/Belajar React/E-Commerce-master/MyApplication/app/src/main/res/layout/_ly_hotsale2.xml" value="0.2753623188405797" />
+        <entry key="..\:/Belajar React/E-Commerce-master/MyApplication/app/src/main/res/layout/_ly_hotsalefood.xml" value="0.23731884057971014" />
+        <entry key="..\:/Belajar React/E-Commerce-master/MyApplication/app/src/main/res/layout/_ly_hotsalefood2.xml" value="0.23731884057971014" />
+        <entry key="..\:/Belajar React/E-Commerce-master/MyApplication/app/src/main/res/layout/_ly_kategori.xml" value="0.2753623188405797" />
+        <entry key="..\:/Belajar React/E-Commerce-master/MyApplication/app/src/main/res/layout/_ly_kategorifood.xml" value="0.23731884057971014" />
+        <entry key="..\:/Belajar React/E-Commerce-master/MyApplication/app/src/main/res/layout/_ly_sale.xml" value="0.2753623188405797" />
+        <entry key="..\:/Belajar React/E-Commerce-master/MyApplication/app/src/main/res/layout/activity_food_cafetaria.xml" value="0.2368659420289855" />
+        <entry key="..\:/Belajar React/E-Commerce-master/MyApplication/app/src/main/res/layout/activity_food_fastfood.xml" value="0.22826086956521738" />
+        <entry key="..\:/Belajar React/E-Commerce-master/MyApplication/app/src/main/res/layout/activity_food_lainya.xml" value="0.2368659420289855" />
+        <entry key="..\:/Belajar React/E-Commerce-master/MyApplication/app/src/main/res/layout/activity_food_makanan.xml" value="0.2368659420289855" />
+        <entry key="..\:/Belajar React/E-Commerce-master/MyApplication/app/src/main/res/layout/activity_food_minuman.xml" value="0.22826086956521738" />
+        <entry key="..\:/Belajar React/E-Commerce-master/MyApplication/app/src/main/res/layout/activity_kategori_cafetaria.xml" value="0.22826086956521738" />
+        <entry key="..\:/Belajar React/E-Commerce-master/MyApplication/app/src/main/res/layout/activity_kategori_elektronik.xml" value="0.22826086956521738" />
+        <entry key="..\:/Belajar React/E-Commerce-master/MyApplication/app/src/main/res/layout/activity_kategori_fast_food.xml" value="0.22826086956521738" />
+        <entry key="..\:/Belajar React/E-Commerce-master/MyApplication/app/src/main/res/layout/activity_kategori_makanan.xml" value="0.22826086956521738" />
+        <entry key="..\:/Belajar React/E-Commerce-master/MyApplication/app/src/main/res/layout/activity_kategori_minuman.xml" value="0.22826086956521738" />
+        <entry key="..\:/Belajar React/E-Commerce-master/MyApplication/app/src/main/res/layout/activity_kategori_produk_lainya.xml" value="0.2368659420289855" />
+        <entry key="..\:/Belajar React/E-Commerce-master/MyApplication/app/src/main/res/layout/activity_kategori_produk_pribadi.xml" value="0.22826086956521738" />
+        <entry key="..\:/Belajar React/E-Commerce-master/MyApplication/app/src/main/res/layout/activity_kategori_rumah_tangga.xml" value="0.22826086956521738" />
+        <entry key="..\:/Belajar React/E-Commerce-master/MyApplication/app/src/main/res/layout/activity_lainya.xml" value="0.22826086956521738" />
+        <entry key="..\:/Belajar React/E-Commerce-master/MyApplication/app/src/main/res/layout/activity_login.xml" value="0.2368659420289855" />
+        <entry key="..\:/Belajar React/E-Commerce-master/MyApplication/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Belajar React/E-Commerce-master/MyApplication/app/src/main/res/layout/activity_nav_admin.xml" value="0.13177083333333334" />
+        <entry key="..\:/Belajar React/E-Commerce-master/MyApplication/app/src/main/res/layout/activity_nav_akun.xml" value="0.22826086956521738" />
+        <entry key="..\:/Belajar React/E-Commerce-master/MyApplication/app/src/main/res/layout/activity_nav_faq.xml" value="0.22826086956521738" />
+        <entry key="..\:/Belajar React/E-Commerce-master/MyApplication/app/src/main/res/layout/activity_nav_mitra.xml" value="0.22826086956521738" />
+        <entry key="..\:/Belajar React/E-Commerce-master/MyApplication/app/src/main/res/layout/activity_nav_pos_terdekat.xml" value="0.22826086956521738" />
+        <entry key="..\:/Belajar React/E-Commerce-master/MyApplication/app/src/main/res/layout/activity_nav_wallet.xml" value="0.25" />
+        <entry key="..\:/Belajar React/E-Commerce-master/MyApplication/app/src/main/res/layout/activity_produk.xml" value="0.2753623188405797" />
+        <entry key="..\:/Belajar React/E-Commerce-master/MyApplication/app/src/main/res/layout/activity_produk_hotsale.xml" value="0.22826086956521738" />
+        <entry key="..\:/Belajar React/E-Commerce-master/MyApplication/app/src/main/res/layout/activity_produk_terbaru.xml" value="0.22826086956521738" />
+        <entry key="..\:/Belajar React/E-Commerce-master/MyApplication/app/src/main/res/layout/activity_rekomendasi_makanan.xml" value="0.22826086956521738" />
+        <entry key="..\:/Belajar React/E-Commerce-master/MyApplication/app/src/main/res/layout/activity_roketantar.xml" value="0.22826086956521738" />
+        <entry key="..\:/Belajar React/E-Commerce-master/MyApplication/app/src/main/res/layout/activity_roketcepat.xml" value="0.22826086956521738" />
+        <entry key="..\:/Belajar React/E-Commerce-master/MyApplication/app/src/main/res/layout/activity_roketesok.xml" value="0.22826086956521738" />
+        <entry key="..\:/Belajar React/E-Commerce-master/MyApplication/app/src/main/res/layout/activity_roketfood.xml" value="0.25" />
+        <entry key="..\:/Belajar React/E-Commerce-master/MyApplication/app/src/main/res/layout/activity_roketkargo.xml" value="0.22826086956521738" />
+        <entry key="..\:/Belajar React/E-Commerce-master/MyApplication/app/src/main/res/layout/activity_roketpindah.xml" value="0.22826086956521738" />
+        <entry key="..\:/Belajar React/E-Commerce-master/MyApplication/app/src/main/res/layout/activity_roketreguler.xml" value="0.22826086956521738" />
+        <entry key="..\:/Belajar React/E-Commerce-master/MyApplication/app/src/main/res/layout/activity_terdekat_makanan.xml" value="0.22826086956521738" />
+        <entry key="..\:/Belajar React/E-Commerce-master/MyApplication/app/src/main/res/layout/list_item.xml" value="0.1767983789260385" />
+        <entry key="..\:/Belajar React/E-Commerce-master/MyApplication/app/src/main/res/menu/item_bottom_navigasi.xml" value="0.3026041666666667" />
+        <entry key="..\:/Belajar React/E-Commerce-master/MyApplication/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.142" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

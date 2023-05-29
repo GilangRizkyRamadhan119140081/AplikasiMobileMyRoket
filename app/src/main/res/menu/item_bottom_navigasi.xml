@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Akun"
+        android:id="@+id/house"
+        android:icon="@drawable/ic_user_circle"/>
+    <item android:title="Admin"
+        android:id="@+id/house"
+        android:icon="@drawable/ic_headset"/>
+    <item android:title="Pos Terdekat"
+        android:id="@+id/house"
+        android:icon="@drawable/ic_house"/>
+    <item android:title="Mitra"
+        android:id="@+id/house"
+        android:icon="@drawable/ic_favorit"/>
+    <item android:title="FAQ"
+        android:id="@+id/house"
+        android:icon="@drawable/ic_telegram_logo"/>
+
+
+</menu>
